@@ -60,7 +60,7 @@ git clone <repository-url>
 cd Project2_Wordle
 ```
 
-## ▶️ Running the Application
+## Running the Application
 
 **Important:** Start services in this exact order:
 
@@ -96,7 +96,7 @@ cd Project2_Wordle
 dotnet run
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Project2_Wordle/
@@ -123,7 +123,7 @@ Project2_Wordle/
     └── user_stats.json            # Game statistics
 ```
 
-## 🎯 Game Rules
+## Game Rules
 
 1. **Objective:** Guess the 5-letter word of the day in 6 attempts or less
 2. **Valid Guesses:** Must be a valid 5-letter word from the word list
