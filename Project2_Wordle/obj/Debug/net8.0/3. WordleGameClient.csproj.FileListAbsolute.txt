@@ -1,0 +1,21 @@
+C:\Project2_Wordle-main\Project2_Wordle\Project2_Wordle\bin\Debug\net8.0\3. WordleGameClient.exe
+C:\Project2_Wordle-main\Project2_Wordle\Project2_Wordle\bin\Debug\net8.0\3. WordleGameClient.deps.json
+C:\Project2_Wordle-main\Project2_Wordle\Project2_Wordle\bin\Debug\net8.0\3. WordleGameClient.runtimeconfig.json
+C:\Project2_Wordle-main\Project2_Wordle\Project2_Wordle\bin\Debug\net8.0\3. WordleGameClient.dll
+C:\Project2_Wordle-main\Project2_Wordle\Project2_Wordle\bin\Debug\net8.0\3. WordleGameClient.pdb
+C:\Project2_Wordle-main\Project2_Wordle\Project2_Wordle\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Project2_Wordle-main\Project2_Wordle\Project2_Wordle\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Project2_Wordle-main\Project2_Wordle\Project2_Wordle\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Project2_Wordle-main\Project2_Wordle\Project2_Wordle\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Project2_Wordle-main\Project2_Wordle\Project2_Wordle\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Project2_Wordle-main\Project2_Wordle\Project2_Wordle\obj\Debug\net8.0\3. WordleGameClient.csproj.AssemblyReference.cache
+C:\Project2_Wordle-main\Project2_Wordle\Project2_Wordle\obj\Debug\net8.0\3. WordleGameClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project2_Wordle-main\Project2_Wordle\Project2_Wordle\obj\Debug\net8.0\3. WordleGameClient.AssemblyInfoInputs.cache
+C:\Project2_Wordle-main\Project2_Wordle\Project2_Wordle\obj\Debug\net8.0\3. WordleGameClient.AssemblyInfo.cs
+C:\Project2_Wordle-main\Project2_Wordle\Project2_Wordle\obj\Debug\net8.0\3. WordleGameClient.csproj.CoreCompileInputs.cache
+C:\Project2_Wordle-main\Project2_Wordle\Project2_Wordle\obj\Debug\net8.0\3. Wordl.458BA67B.Up2Date
+C:\Project2_Wordle-main\Project2_Wordle\Project2_Wordle\obj\Debug\net8.0\3. WordleGameClient.dll
+C:\Project2_Wordle-main\Project2_Wordle\Project2_Wordle\obj\Debug\net8.0\refint\3. WordleGameClient.dll
+C:\Project2_Wordle-main\Project2_Wordle\Project2_Wordle\obj\Debug\net8.0\3. WordleGameClient.pdb
+C:\Project2_Wordle-main\Project2_Wordle\Project2_Wordle\obj\Debug\net8.0\3. WordleGameClient.genruntimeconfig.cache
+C:\Project2_Wordle-main\Project2_Wordle\Project2_Wordle\obj\Debug\net8.0\ref\3. WordleGameClient.dll

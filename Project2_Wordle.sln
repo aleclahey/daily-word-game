@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. WordleGameClient", "Project2_Wordle\3. WordleGameClient.csproj", "{581AFA43-06D4-4E27-84E1-65223B61B174}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordleGameServer", "WordleGameServer\WordleGameServer.csproj", "{AB1943D6-D2FB-4275-BA27-73961995F030}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordServer", "WordServer\WordServer.csproj", "{A13D3758-ED8B-428F-861F-A63D6AC9A2FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{581AFA43-06D4-4E27-84E1-65223B61B174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{581AFA43-06D4-4E27-84E1-65223B61B174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{581AFA43-06D4-4E27-84E1-65223B61B174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{581AFA43-06D4-4E27-84E1-65223B61B174}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB1943D6-D2FB-4275-BA27-73961995F030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB1943D6-D2FB-4275-BA27-73961995F030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB1943D6-D2FB-4275-BA27-73961995F030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB1943D6-D2FB-4275-BA27-73961995F030}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A13D3758-ED8B-428F-861F-A63D6AC9A2FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A13D3758-ED8B-428F-861F-A63D6AC9A2FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A13D3758-ED8B-428F-861F-A63D6AC9A2FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A13D3758-ED8B-428F-861F-A63D6AC9A2FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {447BB6E3-DBD1-48D0-8793-E136140CEB08}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,37 @@
+syntax = "proto3";
+
+option csharp_namespace = "WordleGameServer.Protos";
+
+service DailyWordle {
+	//expose most of the game rules
+	rpc Play(stream WordGuess) returns (stream WordGuessResponse);
+	rpc GetStats(User) returns (UserStatistics);
+}
+
+message WordGuess{
+	string word = 1;
+}
+
+message WordGuessResponse{
+	string word = 1;//user guess
+	bool is_correct = 2;//indicates wheater guess was correct
+	bool game_over = 3;//if game is over
+	string correct_position = 4;//which letters of the guess are in the correct 
+	string included = 5;//which letters of the guess are included in the word but are not in the correct position
+	string incorrect = 6;//which letters are incorrect (not in the word-to-guess)
+	string not_used = 7;//which letters have not yet been used in any guess
+	bool valid_guess = 8;
+	
+}
+
+message UserStatistics{
+	int32 players = 1;
+	int32 winners = 2;
+	int32 total_guesses = 3;
+	double average_guess = 4;
+	string current_day = 5;//use to check if previous session was on a different day (reset stats)
+}
+
+message User{
+
+}
